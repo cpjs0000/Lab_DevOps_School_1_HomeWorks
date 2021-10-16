@@ -1,0 +1,3 @@
+/dev/sdb2        63G   28G   32G  47% /
+/dev/sdb1       238M   67M  155M  31% /boot
+/dev/sdb3       1.8T  288G  1.4T  18% /home
